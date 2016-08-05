@@ -1,0 +1,32 @@
+_repo: The-Little-Savage_6897
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Marryat, Frederick
+    aliases:
+    - Marryatt, Captain
+    - Marryat, Captain
+    - Marryat, F. W. (Frederick W.)
+    birthdate: 1792
+    deathdate: 1848
+    gutenberg_agent_id: '627'
+    url: http://www.gutenberg.org/2009/agents/627
+    wikipedia: http://en.wikipedia.org/wiki/Frederick_Marryat
+description: ''
+gutenberg_issued: '2004-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6897'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Missionaries -- Juvenile fiction'
+- !lcsh 'Shipwreck survival -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Islands of the Pacific -- Juvenile fiction'
+- GITenberg
+title: The Little Savage
+url: http://www.gutenberg.org/ebooks/6897
